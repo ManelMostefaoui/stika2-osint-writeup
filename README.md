@@ -126,7 +126,7 @@ Inside:
 
 ---
 
-## 🔐 Password Discovery (Key Step)
+##  Password Discovery (Key Step)
 
 Initial attempts:
 
