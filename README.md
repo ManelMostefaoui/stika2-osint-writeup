@@ -224,11 +224,4 @@ Steps:
 
 The flag was the name of the location found in front of the university using Baidu Maps.
 
- Key Takeaways
-
-Always scan all members in CTF Discord servers — the target may be hiding in plain sight.
-Short strings in bios or profiles can be invite codes, IDs, or passwords — always test them across platforms.
-GitHub Gist is an often-overlooked feature that can serve as a hidden dead-drop.
-When dealing with locations in China, Google Maps is useless — use Baidu Maps.
-exiftool is an essential OSINT tool for extracting hidden metadata from images.
-The chain of clues in this challenge spanned 6+ platforms — patience and methodical searching are key.
+Thnks for reading :') .
